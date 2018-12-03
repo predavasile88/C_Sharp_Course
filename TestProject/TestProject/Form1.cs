@@ -20,6 +20,8 @@ namespace TestProject
         private void Form1_Load(object sender, EventArgs e)
         {
             //add a code comment
+
+            //another comment
         }
     }
 }
