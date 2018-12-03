@@ -22,6 +22,8 @@ namespace TestProject
             //add a code comment
 
             //another comment
+
+            //Add a commit to a new branch!
         }
     }
 }
